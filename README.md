@@ -27,7 +27,8 @@ El proyecto está organizado de la siguiente manera:
 2. **Ejecución de la Aplicación:**
 
    ```bash
-   npm start
+   1. (En consola) git clone https://github.com/samuelzapatam22/reto2.git
+   2. Ejecutar index.html en el navegador.
    ```
 
    La aplicación se ejecutará en [http://localhost:3000](http://localhost:3000).
